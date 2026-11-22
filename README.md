@@ -48,4 +48,6 @@ Sessões autenticadas, 2FA, logs de atividade e regras antiabuso. Utilize apenas
 
 ## Links oficiais
 
+- [CPF Buscas — endereço adicional: cpfbuscas.fs.kg](https://cpfbuscas.fs.kg/)
+
 👉 **https://cpfbuscas.net/** · Suporte: [WhatsApp](https://wa.me/5511940648946)
